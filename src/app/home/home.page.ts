@@ -14,7 +14,7 @@ export class HomePage {
   readonly librarySettings = {
     user: "demoaccount@situm.com",
     apiKey: "f3ef40b65ffd1574403ffef0669bab69c9040463cf16567e12a45e2e2407bb86",
-    iosGoogleMapsApiKey: "YOUR_IOS_GOOGLE_MAPS_APIKEY",
+    iosGoogleMapsApiKey: "AIzaSyDix4GvgdHNLX0UzWBkdYlz67-exlC8lGo",
     buildingId : "7033",
     dashboardUrl: "https://dashboard.situm.com",
     hasSearchView: true,

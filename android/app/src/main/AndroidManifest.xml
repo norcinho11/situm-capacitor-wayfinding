@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="io.ionic.starter">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
   <application
     android:allowBackup="true"
@@ -37,7 +36,7 @@
 
     <meta-data
       android:name="com.google.android.geo.API_KEY"
-      android:value="GOOGLE-MAPS-API-KEY" />
+      android:value="AIzaSyDix4GvgdHNLX0UzWBkdYlz67-exlC8lGo" />
 
     <uses-library
       android:name="org.apache.http.legacy"
